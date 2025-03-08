@@ -2,6 +2,8 @@
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m">
     <Page id="page2" title="I am View2">
-    <content/>
+    <content>
+    <Label text="Dummy Text"/>
+    </content>
     </Page>
 </mvc:View>
